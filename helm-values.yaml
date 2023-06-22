@@ -6,4 +6,4 @@ resotocore:
       - host: resoto.35.231.126.38.nip.io
         paths:
           - path: /
-            pathType: ImplementationSpecific
+            pathType: Prefix
