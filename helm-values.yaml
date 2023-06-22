@@ -3,7 +3,7 @@ resotocore:
     enabled: true
     className: traefik
     hosts:
-      - host: resoto.127.0.0.1.nip.io
+      - host: resoto.35.231.126.38.nip.io
         paths:
           - path: /
             pathType: ImplementationSpecific
